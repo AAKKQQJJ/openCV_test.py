@@ -1,2 +1,2 @@
 # openCV_test.py
-opencv
+OpenCV 실습 예시입니다.
